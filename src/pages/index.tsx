@@ -18,7 +18,7 @@ const IndexPage = () => (
       `}
     >
       <h1>Jeremy Jones</h1>
-      <p>Full Stack Web Developer</p>
+      <p>Software Developer</p>
     </div>
     {/* <Link to="/page-2/">Go to page 2</Link> */}
   </Layout>
