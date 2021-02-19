@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'gatsby';
 
 import Layout from '../components/layout';
 import SEO from '../components/seo';
@@ -13,13 +14,34 @@ const IndexPage = () => (
         flex-direction: column;
         justify-content: center;
         height: 100vh;
-        text-align: center;
+        width: 100vw;
+        overflow: hidden;
       `}
     >
-      <h1>Jeremy Jones</h1>
-      <p>Software Developer</p>
+      <div
+        className={css`
+          display: flex;
+          justify-content: center;
+        `}
+      >
+        <Link
+          to="/resume"
+          className={css`
+            transition: all ease-in-out 0.2s;
+            text-decoration: none;
+            text-align: center;
+            padding: 25px;
+
+            &:hover {
+              transform: scale(1.2);
+            }
+          `}
+        >
+          <h1>Jeremy Jones</h1>
+          <p>Software Developer</p>
+        </Link>
+      </div>
     </div>
-    {/* <Link to="/page-2/">Go to page 2</Link> */}
   </Layout>
 );
 
