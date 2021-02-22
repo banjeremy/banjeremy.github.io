@@ -1,34 +1,36 @@
 :root {
   --background-color: #fff;
-  --color: #434343;
+  --color: #222222;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&family=Merriweather&display=swap');
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background-color: #1e1e1e;
-    --color: #ddd;
+    --background-color: #07090e;
+    --color: #eee;
   }
 }
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
-  
 }
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
-
 }
 
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
-    /* banner displayed only for desktops */
-    #banner { display: block; }
+  /* banner displayed only for desktops */
+  #banner {
+    display: block;
+  }
 }
 
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;

@@ -29,5 +29,13 @@ module.exports = {
     },
     `gatsby-plugin-typescript`,
     `gatsby-plugin-emotion`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/data/markdown`,
+        name: `markdown`,
+      },
+    },
+    `gatsby-transformer-remark`,
   ],
 };

@@ -3,11 +3,11 @@
 Software Engineer
 
 <p class="screen">
-<a href="mailto:jeremy@jeremyjones.tech">email</a> | <a href="https://github.com/banjeremy">github</a> | <a href="https://linkedin.com/in/banjeremy">linkedin</a> | <a href="http://blog.jeremyjones.tech">blog</a>
+<a href="mailto:jeremy@jones.fun">email</a> | <a href="https://github.com/banjeremy">github</a> | <a href="https://linkedin.com/in/banjeremy">linkedin</a> | <a href="https://jeremy.jones.fun">jeremy.jones.fun</a>
 </p>
 
 <p class="print">
-jeremy@jeremyjones.tech | github.com/banjeremy | linkedin.com/in/banjeremy | blog.jeremyjones.tech
+  jeremy@jones.fun | github.com/banjeremy | linkedin.com/in/banjeremy | jeremy.jones.fun
 </p>
 
 ---
