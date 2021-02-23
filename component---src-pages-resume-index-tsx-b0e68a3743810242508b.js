@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{"3knH":function(e,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return u}));t("q1tI");var a=t("9Dj+"),r=t("H8eV"),c=(t("xpLQ"),t("qKvR"));function u(e){var n=e.data.markdownRemark.html;return Object(c.a)(a.a,null,Object(c.a)(r.a,{title:"Resume"}),Object(c.a)("div",{className:"resume"},Object(c.a)("div",{id:"container",dangerouslySetInnerHTML:{__html:n}})))}},xpLQ:function(e,n,t){}}]);
+//# sourceMappingURL=component---src-pages-resume-index-tsx-b0e68a3743810242508b.js.map
