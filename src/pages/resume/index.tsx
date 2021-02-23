@@ -12,7 +12,9 @@ export default function Resume({
   return (
     <Layout>
       <SEO title="Resume" />
-      <div id="container" dangerouslySetInnerHTML={{ __html: html }} />
+      <div className="resume">
+        <div id="container" dangerouslySetInnerHTML={{ __html: html }} />
+      </div>
     </Layout>
   );
 }

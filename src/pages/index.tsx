@@ -38,7 +38,7 @@ const IndexPage = () => (
           `}
         >
           <h1>Jeremy Jones</h1>
-          <p>Software Developer</p>
+          <p>Software Engineer</p>
         </Link>
       </div>
     </div>
