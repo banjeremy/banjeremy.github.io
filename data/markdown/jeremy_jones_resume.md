@@ -23,6 +23,7 @@ I am a Full Stack Developer, Architect, Polyglot and Hacker with experience in a
 - CSS
 - Python
 - Golang
+- Node.js
 - Containers
 - Kubernetes
 - Linux
@@ -30,7 +31,8 @@ I am a Full Stack Developer, Architect, Polyglot and Hacker with experience in a
 - Azure
 - Agile + Scrum
 - CI + CD
-- SQL
+- GraphQL
+- (No)SQL
 
 ## Experience
 
