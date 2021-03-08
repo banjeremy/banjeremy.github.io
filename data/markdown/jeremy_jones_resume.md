@@ -18,20 +18,19 @@ I am a Full Stack Developer, Architect, Polyglot and Hacker with experience in a
 
 ---
 
-- Javascript
+- Typescript
 - React
 - CSS
-- Python
-- Golang
+- GraphQL
 - Node.js
-- Containers
+- Golang
 - Kubernetes
 - Linux
+- Python
 - AWS
 - Azure
 - Agile + Scrum
 - CI + CD
-- GraphQL
 - (No)SQL
 
 ## Experience
