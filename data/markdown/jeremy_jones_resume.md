@@ -22,16 +22,17 @@ I am a Full Stack Developer, Architect, Polyglot and Hacker with experience in a
 - React
 - CSS
 - GraphQL
+- (No)SQL
 - Node.js
-- Golang
+- Python
 - Kubernetes
 - Linux
-- Python
+- Golang
 - AWS
 - Azure
 - Agile + Scrum
 - CI + CD
-- (No)SQL
+
 
 ## Experience
 
