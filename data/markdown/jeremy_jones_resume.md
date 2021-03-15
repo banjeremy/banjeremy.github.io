@@ -80,5 +80,5 @@ I am a Full Stack Developer, Architect, Polyglot and Hacker with experience in a
 ---
 
 <p class="small">
-astronomy | craft beer | hiking | kayaking | motorcycling | travel
+astronomy | distilling | hiking | off-roading | motorcycling | travel
 </p>
