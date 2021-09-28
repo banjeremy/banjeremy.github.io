@@ -44,7 +44,7 @@ Software Engineer
 - Built a full stack insights dashboard and data vis platform with thousands of internal users
 - Set up automated CI/CD pipelines via Github Actions with deployments to on-prem k8s and the cloud
 - Architect, pipe, and hydrate data platform in the cloud for data analytics, data science and application workloads 
-- built and deployed a workforce planning application used for nurses at hundreds of facilities
+- Built and deployed a workforce planning application used for nurses at hundreds of facilities across the country
 
 **Senior Application Engineer**, [_Built Technologies_](https://getbuilt.com/) Aug 2015–Dec 2016
 
