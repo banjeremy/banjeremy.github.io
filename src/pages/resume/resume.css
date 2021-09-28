@@ -66,6 +66,10 @@ h1 + p {
   margin-top: 0.5rem;
 }
 
+.intro {
+  font-size: 0.9rem;
+}
+
 .print {
   display: none;
 }

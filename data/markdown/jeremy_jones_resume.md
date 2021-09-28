@@ -12,24 +12,26 @@ Software Engineer
 
 ---
 
-I am a Full Stack Developer, Architect, Polyglot and Hacker with experience in a diversity of technologies, platforms and industries. I'm passionate about my craft and I aim for perfection. As a warrior <span class="screen">⚔</span> against complexity, I fight for simplicity. I'm perpetually curious and constantly seeking new challenges, learning new methods and tools, and exploring different angles for approaching problems.
+<p class="intro">
+  I am a Full Stack Developer, Architect, Polyglot and Hacker with experience in a diversity of technologies, platforms and industries. I'm passionate about my craft and I aim for perfection. As a warrior <span class="screen">⚔</span> against complexity, I fight for simplicity. I'm perpetually curious and constantly seeking new challenges, learning new methods and tools, and exploring different angles for approaching problems.
+</p>
 
 ## Technologies
 
 ---
 
-- JavaScript
-- ReactJS
-- Python
-- Golang
-- Docker
-- Kubernetes
-- Microservices
-- Kafka
-- Data Visualization
-- Agile + Scrum
-- CI + CD
-- (No)SQL
+- python
+- typescript
+- react
+- nodejs
+- golang
+- linux
+- docker
+- kubernetes
+- azure
+- gcp
+- aws
+- git
 
 ## Experience
 
@@ -37,18 +39,19 @@ I am a Full Stack Developer, Architect, Polyglot and Hacker with experience in a
 
 **Lead Software Engineer**, [_HCA Healthcare_](http://hcahealthcare.com/) Dec 2016–Present
 
-- Lead a development team and mentored junior engineers
-- Created a streaming pipeline from legacy medical systems into Kafka
-- Developed CLI tools supporting users of Hadoop big data platform
-- Crafted CI/CD pipelines and instrumentation for Data Science and AI applications
-- Contributed to mircroservices backing mobile patient portal apps
+
+- Tech lead for HR Analytics organization, overseeing all engineering efforts
+- Built a full stack insights dashboard and data vis platform with thousands of internal users
+- Set up automated CI/CD pipelines via Github Actions with deployments to on-prem k8s and the cloud
+- Architect, pipe, and hydrate data platform in the cloud for data analytics, data science and application workloads 
+- built and deployed a workforce planning application used for nurses at hundreds of facilities
 
 **Senior Application Engineer**, [_Built Technologies_](https://getbuilt.com/) Aug 2015–Dec 2016
 
-- Championed the move from monolithic architecture to event-driven microservices
+- Supported the move from monolithic architecture to event-driven microservices
 - Enhanced and re-skinned legacy desktop web application with RWD principles
 - Created Built's interactive marketing website
-- Developed mobile apps for iOS and Android
+- Developed cross-platform mobile apps for iOS and Android
 
 **Senior Developer**, [_2-COM_](http://2-com.net) Jul 2013–Aug 2015
 
@@ -72,10 +75,11 @@ I am a Full Stack Developer, Architect, Polyglot and Hacker with experience in a
 - Bachelor of Science in Computer Science – University of Southern Mississippi, 2008–2012
 - Master of Computer Science (in progress) – University of Illinois Urbana-Champaign, 2019–present
 
+
 ## Personal Interests
 
 ---
 
 <p class="small">
-astronomy | craft beer | hiking | kayaking | motorcycling | travel
+ cooking | kayaking | mountain biking | motorcycling | travel
 </p>
