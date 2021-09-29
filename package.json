@@ -45,6 +45,6 @@
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
     "lint": "eslint . --ext ts,tsx src",
-    "deploy": "gatsby build && gh-pages -d public -b master -r https://$GH_TOKEN@github.com/banjeremy/banjeremy.github.io.git"
+    "deploy": "gatsby build && gh-pages -d public -b gh-pages -r https://$GH_TOKEN@github.com/banjeremy/banjeremy.github.io.git"
   }
 }
