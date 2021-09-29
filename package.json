@@ -45,6 +45,6 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
-    "lint": "eslint . --ext ts,tsx src",
+    "lint": "eslint . --ext ts,tsx src"
   }
 }
