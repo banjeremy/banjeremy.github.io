@@ -37,8 +37,10 @@ Software Engineer
 
 ---
 
-**Lead Software Engineer**, [_HCA Healthcare_](http://hcahealthcare.com/) Dec 2016–Present
+**Head of Engineering**, [_majr_](https://majr.tech) Nov 2021–Present
+- majr is on a mission to restore the value of music for the next generation of artists.
 
+**Lead Software Engineer**, [_HCA Healthcare_](https://hcahealthcare.com/) Dec 2016–Nov 2021
 
 - Tech lead for HR Analytics organization, overseeing all engineering efforts
 - Built a full stack insights dashboard and data vis platform with thousands of internal users
