@@ -25,7 +25,7 @@ const IndexPage = () => (
         `}
       >
         <Link
-          to="/resume"
+          to="#"
           className={css`
             transition: all ease-in-out 0.2s;
             text-decoration: none;
